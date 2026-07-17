@@ -15,8 +15,8 @@ Visualización Técnica (Data Visualization): Renderizado modular en Matplotlib 
 
 ## 🛠️ Tecnologías Utilizadas
 
-Entorno de Desarrollo: `VS Code / Python 3`
-Librerías Principales: `Matplotlib (Visualización avanzada), CSV & OS (Módulos nativos para procesamiento de archivos).`
+1. Entorno de Desarrollo: `VS Code / Python 3`
+2. Librerías Principales: `Matplotlib (Visualización avanzada), CSV & OS (Módulos nativos para procesamiento de archivos).`
 
 📈 Resultados Visuales
 El pipeline genera de manera automática un reporte visual en alta definición (.png) listo para la toma de decisiones geológicas:
